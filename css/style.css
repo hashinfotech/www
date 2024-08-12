@@ -36,6 +36,10 @@ a:hover, a:focus, a:active, a:visited {
 	background-color: #dd5138;
 	color: #fff;
 }
+.btn-gold {
+	background-color: #ffc000;
+	color: #dd5138;
+}
 .btn-yellow {
 	background-color: #fcd93b;
 	color: #2a2a2a;
